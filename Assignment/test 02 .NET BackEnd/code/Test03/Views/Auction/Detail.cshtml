@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Detail";
+}
+@model IList<Test03.Models.Bid>
+
+<h2>Aukcia @ViewBag.AuctionId</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bid in Model)
+        {
+            <tr>
+                <td>@bid.Email</td>
+                <td>@bid.Amount</td>
+            </tr>
+        }
+    </tbody>
+</table>
