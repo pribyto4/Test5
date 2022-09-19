@@ -2,6 +2,10 @@
 
 "test 01 MSSQL/Task 4" řešen pomocí příkazu v sqlcmd
 
+# Ukázka řešení webové aplikace Test03:
+
+video: https://github.com/pribyto4/Test5/blob/main/Test5.flv
+
 # Návod na zprovoznění webových aplikací:
 
 Ve windows netestováno (pro Visual Studio by měly fungovat soubory s projektem Test02.sln a Test03.sln)
