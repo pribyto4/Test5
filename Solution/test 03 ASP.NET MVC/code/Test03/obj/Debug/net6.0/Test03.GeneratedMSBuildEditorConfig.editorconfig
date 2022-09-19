@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Test03
 build_property.RootNamespace = Test03
-build_property.ProjectDir = /media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/
+build_property.ProjectDir = /media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03
+build_property.MSBuildProjectDirectory = /media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03
 build_property._RazorSourceGeneratorDebug = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/Auction/Detail.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/Auction/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXVjdGlvbi9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/Home/Index.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/Home/Privacy.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/Shared/Error.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/_ViewImports.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/_ViewStart.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Views/Shared/_Layout.cshtml]
+[/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9en9xs5d1j

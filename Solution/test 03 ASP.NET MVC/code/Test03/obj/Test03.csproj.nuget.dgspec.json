@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Test03.csproj": {}
+    "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Test03.csproj": {}
   },
   "projects": {
-    "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Test03.csproj": {
+    "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Test03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Test03.csproj",
+        "projectUniqueName": "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Test03.csproj",
         "projectName": "Test03",
-        "projectPath": "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/Test03.csproj",
+        "projectPath": "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/Test03.csproj",
         "packagesPath": "/home/tom/.nuget/packages/",
-        "outputPath": "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/řešení/test 03 ASP.NET MVC/code/Test03/obj/",
+        "outputPath": "/media/tom/rychlý data/Dokumenty/Tomáš/PRG Linux/Programy - .NET/Test5/Test5/Solution/test 03 ASP.NET MVC/code/Test03/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tom/.nuget/NuGet/NuGet.Config"
