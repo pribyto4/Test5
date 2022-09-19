@@ -4,7 +4,7 @@
 
 # Ukázka řešení webové aplikace Test03:
 
-video: https://github.com/pribyto4/Test5/blob/main/Test5.flv
+video: https://github.com/pribyto4/Test5/blob/master/Test5.flv
 
 # Návod na zprovoznění webových aplikací:
 
